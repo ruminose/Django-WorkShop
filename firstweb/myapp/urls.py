@@ -19,5 +19,5 @@ from .views import Home
 
 urlpatterns = [
     path('',Home),
-    path('',Test),
+    path('',Test123123),
 ]
