@@ -1,1 +1,1 @@
-Django project
+<H1>Django project</H1>
